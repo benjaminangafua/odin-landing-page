@@ -1,1 +1,4 @@
-# odin-landing-page
+# Landing Page 
+> Built with: Odin Project
+
+`Monrovia, Liberia`
