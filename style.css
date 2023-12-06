@@ -222,3 +222,8 @@ footer {
     padding-block: 3rem;
     text-align: center;
 }
+
+a {
+    text-decoration: none;
+    color: currentColor;
+}
